@@ -181,7 +181,7 @@ The project includes a fraud prediction dashboard using Streamlit.
 ## Clone Repository
 
 ```bash
-git clone https://github.com/Raju-7199/credit-card-fraud-detection-ml.git
+git clone https://github.com/Raju-7199/Credit-Card-Fraud-Detection-using-ML-.git
 cd credit-card-fraud-detection-ml
 ```
 
@@ -272,30 +272,6 @@ streamlit==1.35.0
 - Docker support
 - Model API with Flask/FastAPI
 
----
-
-# 📷 Suggested Repository Additions
-
-You can improve the repository by adding:
-
-- Streamlit screenshots
-- Demo GIF
-- Architecture diagram
-- Presentation slides
-- Dataset description
-
----
-
-# 📤 GitHub Upload Steps
-
-```bash
-git init
-git add .
-git commit -m "Initial commit - credit card fraud detection project"
-git branch -M main
-git remote add origin https://github.com/yourusername/credit-card-fraud-detection-ml.git
-git push -u origin main
-```
 
 ## 🧠 Tech Stack
 
